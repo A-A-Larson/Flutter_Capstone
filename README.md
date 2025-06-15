@@ -1,16 +1,13 @@
-# capstone_assignment
+# Flutter_Capstone_Assignment
 
-A new Flutter project.
+## This was a final project for my Flutter class. A simple app to practice state management and form controls. A drop down menu is used to change the state of the plant object displayed on the screen. 
 
-## Getting Started
+![image](<img width="246" alt="CapstoneSS1" src="https://github.com/user-attachments/assets/e143ae0d-160a-46ed-b048-63c3839884e2" />)
+![image](<img width="243" alt="CapstoneSS2" src="https://github.com/user-attachments/assets/f3a649e3-409a-4144-8705-8fafc509c023" />)
+![image](<img width="244" alt="CapstoneSS3" src="https://github.com/user-attachments/assets/92c3b826-6229-4175-bb33-f728391cbb2a" />)
+![image](<img width="244" alt="CapstoneSS4" src="https://github.com/user-attachments/assets/3bed2456-251b-4175-bebe-ff48f9189d12" />)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## How to Install
+1. Open project with Android Studio
+2. Select your emulator 
+3. Run main.dart
